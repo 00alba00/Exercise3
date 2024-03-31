@@ -13,12 +13,6 @@ The code is written in python 3
 Packages and libraries required:
   * pandas
   * re
-   
-***
-
-### Data
-
-The dataset used in this study (.csv) was sourced from a Chinese website[2], which provided an article containing approximately 500 animal names written in Chinese characters.
 
 ***
 
